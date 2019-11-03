@@ -12,3 +12,9 @@ The list is as below:
 * Ravel - Menuet antique: [link](https://en.wikipedia.org/wiki/Menuet_antique)
 * Puccini - Vissi d'arte: [link](https://en.wikipedia.org/wiki/Vissi_d%27arte)
 * Anderson & Roe - Paranoid Android: [link](https://www.andersonroe.com/mv-paranoid-android)
+
+# Drama
+* Bongos - https://www.youtube.com/watch?v=B0TAuLJyFJo
+* Theremin - https://www.youtube.com/watch?v=NeqndFdgakE
+* Fiddler On The Roof - https://www.youtube.com/watch?v=0mEtMwUVgxI
+* Sweet Bernadette - https://www.youtube.com/watch?v=5BOCR1k9fKs
