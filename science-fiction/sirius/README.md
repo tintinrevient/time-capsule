@@ -1,6 +1,6 @@
 # Sirius
 
-* "Let's go inside," he said, "theres some dreadful thing **up wind**."
+* "Let's go inside," he said, "there's some dreadful thing **up wind**."
 * "Oh, but you are sad, underneath," he would answer. "I can hear it quite well. You are only pleased on top."
 
 <p float="left">
