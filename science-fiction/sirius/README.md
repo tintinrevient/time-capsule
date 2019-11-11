@@ -1,7 +1,7 @@
 # Sirius
 
 <p float="left">
-	<img src="./pix/sirius.jpg" width="600" />
+	<img src="./pix/sirius.jpg" width="400" />
 </p>
 
 * "Let's go inside," he said, "theres some dreadful thing **up wind**."
