@@ -6,6 +6,8 @@
 
 * "Throughout the world, the passage of goods takes place to an extraordinary degree beyond governmental control; less than five percent of the goods passing through the world's ports are ever inspected."
 
+* "For most low-end traders, complete adherence to the law in all its different manifestations across the globe is economically suicidal - the law limits traders at every step of their journeys."
+
 <p float="left">
 	<img src="./pix/chungking-mansion.png" width="700" />
 </p>
