@@ -8,6 +8,8 @@
 
 * "For most low-end traders, complete adherence to the law in all its different manifestations across the globe is economically suicidal - the law limits traders at every step of their journeys."
 
+* "The legal violations of my informants were generally less matters of morality than of **legal technicality**. There is great exploitation of poor, low-level workers by rich owners and managers, but this is a feature not of Chungking Mansions alone, but of Hong Kong and the capitalistic world as a whole."
+
 <p float="left">
 	<img src="./pix/chungking-mansion.png" width="700" />
 </p>
