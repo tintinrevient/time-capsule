@@ -18,5 +18,5 @@
 </p>
 
 <p float="left">
-	<img src="./pix/the-secret-lives-of-color.jpg" width="700" />
+	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
