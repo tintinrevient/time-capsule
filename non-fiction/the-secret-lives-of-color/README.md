@@ -27,6 +27,16 @@
 	<img src="./pix/isabelline.png" width="700" />
 </p>
 
+### Chalk
+<p float="left">
+	<img src="./pix/chalk.png" width="700" />
+</p>
+
+### Beige
+<p float="left">
+	<img src="./pix/beige.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
