@@ -59,6 +59,26 @@
 	<img src="./pix/acid-yellow.png" width="700" />
 </p>
 
+### Naples yellow
+<p float="left">
+	<img src="./pix/naples-yellow.png" width="700" />
+</p>
+
+### Chrome yellow
+<p float="left">
+	<img src="./pix/chrome-yellow.png" width="700" />
+</p>
+
+### Gamboge
+<p float="left">
+	<img src="./pix/gamboge.png" width="700" />
+</p>
+
+### Orpiment
+<p float="left">
+	<img src="./pix/orpiment.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
