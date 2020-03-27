@@ -79,6 +79,16 @@
 	<img src="./pix/orpiment.png" width="700" />
 </p>
 
+### Imperial yellow
+<p float="left">
+	<img src="./pix/imperial-yellow.png" width="700" />
+</p>
+
+### Gold
+<p float="left">
+	<img src="./pix/gold.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
