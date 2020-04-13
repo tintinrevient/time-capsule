@@ -8,6 +8,10 @@
 
 * "Ours may always be a **flashy** type of creativity, but there is something to be said for a **slow**, **wide** creativity of many dim parts working ceaselessly."
 
+* "This is a universal law of vivisystems: higher-level complexities **cannot be inferred** by lower-level existences."
+
+* "**Nothing** — no computer or mind, no means of mathematics, physics, or philosophy — can unravel the **emergent pattern** dissolved in the parts without actually playing it out."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
