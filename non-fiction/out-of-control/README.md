@@ -14,6 +14,8 @@
 
 * "The theorists put it this way: running a system is the quickest, shortest, and only sure method to discern emergent structures latent in it. There are no shortcuts to actually **“expressing”** a convoluted, nonlinear equation to discover what it does."
 
+* "What is contained in a human that will **not emerge until** we are all interconnected by wires and politics?"
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
