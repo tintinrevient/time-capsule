@@ -6,6 +6,8 @@
 
 * "Two concrete trends are happening: (1) Human-made things are behaving more lifelike, and (2) Life is becoming more **engineered**."
 
+* "Ours may always be a **flashy** type of creativity, but there is something to be said for a **slow**, **wide** creativity of many dim parts working ceaselessly."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
