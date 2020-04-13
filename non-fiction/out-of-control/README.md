@@ -12,6 +12,8 @@
 
 * "**Nothing** — no computer or mind, no means of mathematics, physics, or philosophy — can unravel the **emergent pattern** dissolved in the parts without actually playing it out."
 
+* "The theorists put it this way: running a system is the quickest, shortest, and only sure method to discern emergent structures latent in it. There are no shortcuts to actually **“expressing”** a convoluted, nonlinear equation to discover what it does."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
