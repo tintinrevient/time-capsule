@@ -16,6 +16,10 @@
 
 * "What is contained in a human that will **not emerge until** we are all interconnected by wires and politics?"
 
+* "Retrieval from memory involves selecting out of a vast field of things what’s important and what is not important, emphasizing the important stuff, downplaying the unimportant. **That selection process is perception**."
+
+* "**The core processes of cognition** are very, very tightly related to **perception**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
