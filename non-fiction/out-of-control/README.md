@@ -24,6 +24,9 @@
 
 * "you can’t have intelligence without **a society of mind**. we can **only get smart things from stupid things**."
 
+* "The distributed mass of ricocheting impulses which form the foundation of intelligence forbid deterministic results for
+a given starting point. Instead of **repeatable results**, outcomes are merely **probabilistic**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
