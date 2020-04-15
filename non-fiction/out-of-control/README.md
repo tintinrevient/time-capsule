@@ -29,6 +29,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "There is **no explicit communication** between the behavior agents. all communication occurs through **observing the effects of actions** that other agents have on the external world."
 
+* "The world itself becomes the 'central' controller; **the unmapped environment becomes the map**. within this kind of organization, **very small amounts of computation** are needed to generate intelligent behaviors."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
