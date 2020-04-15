@@ -35,6 +35,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "sparse communication — **watch results in the world**, not wires."
 
+* "Almost every lesson from the Mobot Lab seems to teach that **there is no mind without body** in **a real unforgiving world**. **To think is to act**, and **to act is to think**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
