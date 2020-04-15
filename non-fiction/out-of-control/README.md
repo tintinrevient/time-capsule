@@ -20,6 +20,8 @@
 
 * "**The core processes of cognition** are very, very tightly related to **perception**."
 
+* "The problem with our robots today is that we don’t respect them. They are stuck in factories without windows, doing jobs that humans don’t want to do. **we take machines as slaves, but they are not that**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
