@@ -27,6 +27,8 @@
 * "The distributed mass of ricocheting impulses which form the foundation of intelligence forbid deterministic results for
 a given starting point. Instead of **repeatable results**, outcomes are merely **probabilistic**."
 
+* "There is **no explicit communication** between the behavior agents. all communication occurs through **observing the effects of actions** that other agents have on the external world."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
