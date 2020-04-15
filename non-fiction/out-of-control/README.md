@@ -31,6 +31,10 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The world itself becomes the 'central' controller; **the unmapped environment becomes the map**. Within this kind of organization, **very small amounts of computation** are needed to generate intelligent behaviors."
 
+* "Tight coupling of sensors to actuators — **reflexes**, **not thinking**."
+
+* "sparse communication — **watch results in the world**, not wires."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
