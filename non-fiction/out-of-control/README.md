@@ -22,6 +22,8 @@
 
 * "The problem with our robots today is that we don’t respect them. They are stuck in factories without windows, doing jobs that humans don’t want to do. **we take machines as slaves, but they are not that**."
 
+* "you can’t have intelligence without **a society of mind**. we can **only get smart things from stupid things**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
