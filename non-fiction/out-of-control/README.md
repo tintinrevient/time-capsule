@@ -35,9 +35,9 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "sparse communication — **watch results in the world**, not wires."
 
-* "Almost every lesson from the Mobot Lab seems to teach that **there is no mind without body** in **a real unforgiving world**. **To think is to act**, and **to act is to think**."
+* "Almost every lesson from the Mobot Lab seems to teach that **there is no mind without body** in **a real unforgiving world**. **To think is to act**, and **to act is to think**." (**survival**)
 
-* "**What color is a chameleon on a mirror?**"
+* "**What color is a chameleon on a mirror?**" (**virtual reality**)
 
 * "The chameleon responding to its own shifting image is an apt analog of the human world of fashion."
 
