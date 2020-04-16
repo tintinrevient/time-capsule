@@ -45,6 +45,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "In the physical universe the effect that one event has on another tends to decrease with **the distance in time or in space between them**. In computation there is no analog of distance. One memory location is as easily influenced as another."
 
+* "An organism’s gene-pattern does not specify in detail how a kitten shall catch a mouse, but provides a learning mechanism and a tendency to play, so that **it is the mouse which teaches the kitten the finer points of how to catch mice**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
