@@ -37,6 +37,10 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "Almost every lesson from the Mobot Lab seems to teach that **there is no mind without body** in **a real unforgiving world**. **To think is to act**, and **to act is to think**."
 
+* "**What color is a chameleon on a mirror?**"
+
+* "The chameleon responding to its own shifting image is an apt analog of the human world of fashion."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
