@@ -43,7 +43,7 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "Medieval life was remarkably **unnarcissistic**. Common folk had only vague notions of their own image in the broad sense. Their individual and social identities were informed by participating in rituals and traditions rather than by reflection. On the other hand, **the modern world is being paved with mirrors**."
 
-* "In computation there is no analog of **distance**. One memory location is as easily influenced as another."
+* "In the physical universe the effect that one event has on another tends to decrease with **the distance in time or in space between them**. In computation there is no analog of distance. One memory location is as easily influenced as another."
 
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
