@@ -47,6 +47,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "An organism’s gene-pattern does not specify in detail how a kitten shall catch a mouse, but provides a learning mechanism and a tendency to play, so that **it is the mouse which teaches the kitten the finer points of how to catch mice**."
 
+* "**'the shadow of the future'** cast by playing a game repeatedly rather than once encouraged cooperation."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
