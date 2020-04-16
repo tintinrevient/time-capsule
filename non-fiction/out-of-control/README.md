@@ -49,6 +49,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "**'the shadow of the future'** cast by playing a game repeatedly rather than once encouraged cooperation."
 
+* "In zero-sum games you always try to **hide your strategy**, but in nonzero-sum games you might want to announce your strategy in public so the other players need to **adapt to it**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
