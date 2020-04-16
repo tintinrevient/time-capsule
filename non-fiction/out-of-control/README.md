@@ -41,6 +41,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The chameleon responding to its own shifting image is an apt analog of the human world of fashion."
 
+* "Medieval life was remarkably **unnarcissistic**. Common folk had only vague notions of their own image in the broad sense. Their individual and social identities were informed by participating in rituals and traditions rather than by reflection. On the other hand, **the modern world is being paved with mirrors**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
