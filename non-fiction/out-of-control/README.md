@@ -55,6 +55,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "I finally figured out that the way to get wonderfully lifelike behavior is not to try to make a really complex creature, but to **make a wonderfully rich environment for a simple creature**."
 
+* "The reason life cannot be halted is that the complexity of life’s dynamics has exceeded the complexity of all known destructive forces."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
