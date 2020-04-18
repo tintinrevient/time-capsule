@@ -53,6 +53,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "If you create predator/prey relationships in silico, what conditions cause the virtual organisms to settle into a long-term coevolutionary duet, and what conditions cause them to crash?"
 
+* "I finally figured out that the way to get wonderfully lifelike behavior is not to try to make a really complex creature, but to **make a wonderfully rich environment for a simple creature**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
