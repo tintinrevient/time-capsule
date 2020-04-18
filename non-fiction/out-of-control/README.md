@@ -51,6 +51,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "In zero-sum games you always try to **hide your strategy**, but in nonzero-sum games you might want to announce your strategy in public so the other players need to **adapt to it**."
 
+* "If you create predator/prey relationships in silico, what conditions cause the virtual organisms to settle into a long-term coevolutionary duet, and what conditions cause them to crash?"
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
