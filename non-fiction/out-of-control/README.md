@@ -57,6 +57,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The reason life cannot be halted is that the complexity of life’s dynamics has exceeded the complexity of all known destructive forces."
 
+* "Ktesibios’s regula was the first nonliving object to self-regulate, self-govern, and self-control. Thus, it became the first **self to be born outside of biology**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
