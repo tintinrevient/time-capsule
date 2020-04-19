@@ -63,6 +63,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "**A system is anything that talks to itself**. All living systems and organisms ultimately reduce to a bunch of regulators — chemical pathways and neuron circuits — having conversations as dumb as **'I want, I want, I want; no, you can’t, you can’t, you can’t.'**"
 
+* "The organisms that catch our eye and demand our attention, Folsome suspected, were **mere ornate, decorative placeholdings** as far as the atmosphere was concerned. It was **the microbes** in the guts in mammals and the microbes that clung to tree roots that made trees and mammals valuable in closed systems, including our planet."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
