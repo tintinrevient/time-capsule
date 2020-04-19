@@ -61,6 +61,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The organism is the cause and effect of itself, its own intrinsic order and organization. **Natural selection** isn’t the cause of organisms. **Genes** don’t cause organisms. There are no causes of organisms. **Organisms are self-causing agencies**."
 
+* "**A system is anything that talks to itself**. All living systems and organisms ultimately reduce to a bunch of regulators — chemical pathways and neuron circuits — having conversations as dumb as **'I want, I want, I want; no, you can’t, you can’t, you can’t.'**"
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
