@@ -59,6 +59,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "Ktesibios’s regula was the first nonliving object to self-regulate, self-govern, and self-control. Thus, it became the first **self to be born outside of biology**."
 
+* "The organism is the cause and effect of itself, its own intrinsic order and organization. **Natural selection** isn’t the cause of organisms. **Genes** don’t cause organisms. There are no causes of organisms. **Organisms are self-causing agencies**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
