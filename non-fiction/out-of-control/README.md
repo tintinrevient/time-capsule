@@ -65,6 +65,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The organisms that catch our eye and demand our attention, Folsome suspected, were **mere ornate, decorative placeholdings** as far as the atmosphere was concerned. It was **the microbes** in the guts in mammals and the microbes that clung to tree roots that made trees and mammals valuable in closed systems, including our planet."
 
+* "The larger an ecosphere is, the longer it takes to stabilize, and the harder it is to kill it."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
