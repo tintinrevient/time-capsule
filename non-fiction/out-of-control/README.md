@@ -69,6 +69,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The most profound technologies are **those that disappear**. They weave themselves into the fabric of everyday life until they are indistinguishable from it."
 
+* "**Wear** is a wonderful metaphor for a commonwealth. A single wear mark is useless. But bunched and shared, they prove valuable to all. The more they are distributed, the more valuable."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
