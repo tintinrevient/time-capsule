@@ -67,6 +67,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "The larger an ecosphere is, the longer it takes to stabilize, and the harder it is to kill it."
 
+* "The most profound technologies are **those that disappear**. They weave themselves into the fabric of everyday life until they are indistinguishable from it."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
