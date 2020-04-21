@@ -71,6 +71,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "**Wear** is a wonderful metaphor for a commonwealth. A single wear mark is useless. But bunched and shared, they prove valuable to all. The more they are distributed, the more valuable."
 
+* "Stuff circles from the **biosphere** into the **technosphere** and back again in a grand **bionic ecology of nature and artifact**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
