@@ -37,7 +37,7 @@
 	<img src="./pix/beige.png" width="700" />
 </p>
 
-## White
+## Yellow
 
 ### Blond
 <p float="left">
@@ -87,6 +87,18 @@
 ### Gold
 <p float="left">
 	<img src="./pix/gold.png" width="700" />
+</p>
+
+## Orange
+
+### Dutch orange
+<p float="left">
+	<img src="./pix/dutch-orange.png" width="700" />
+</p>
+
+### Saffron
+<p float="left">
+	<img src="./pix/saffron.png" width="700" />
 </p>
 
 <p float="left">
