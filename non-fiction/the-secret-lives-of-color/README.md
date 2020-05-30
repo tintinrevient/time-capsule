@@ -101,6 +101,16 @@
 	<img src="./pix/saffron.png" width="700" />
 </p>
 
+### Amber
+<p float="left">
+	<img src="./pix/amber.png" width="700" />
+</p>
+
+### Ginger
+<p float="left">
+	<img src="./pix/ginger.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
