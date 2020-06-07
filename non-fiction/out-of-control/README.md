@@ -75,6 +75,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "But today, in a world full of easily obtained telephone numbers, an unlisted phone number is more valuable to the unlisted and to the phone company. **Privacy is a commodity to be priced and sold**."
 
+* "In a world where everything is connected to everything, where connection and information and knowledge are dirt cheap, then disconnection and anti-information and anti-knowledge become expensive."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
