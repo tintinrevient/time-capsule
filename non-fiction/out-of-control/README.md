@@ -73,6 +73,8 @@ a given starting point. Instead of **repeatable results**, outcomes are merely *
 
 * "Stuff circles from the **biosphere** into the **technosphere** and back again in a grand **bionic ecology of nature and artifact**."
 
+* "But today, in a world full of easily obtained telephone numbers, an unlisted phone number is more valuable to the unlisted and to the phone company. **Privacy is a commodity to be priced and sold**."
+
 <p float="left">
 	<img src="./pix/out-of-control.jpg" width="500" />
 </p>
