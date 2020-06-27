@@ -28,7 +28,7 @@
 
 * "A team of people cannot **intuit** something together, but they can **deliberate** together."
 
-* "The visual environment functions as a sort of outside memory store."
+* "The visual environment functions as a sort of **outside memory store**."
 
 <p float="left">
 	<img src="./pix/the-knowledge-illusion.jpg" width="500" />
