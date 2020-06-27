@@ -26,6 +26,8 @@
 
 * "Thinking about **alternative possible worlds** is an important part of being human. It is called counterfactual thought."
 
+* "A team of people cannot **intuit** something together, but they can **deliberate** together."
+
 <p float="left">
 	<img src="./pix/the-knowledge-illusion.jpg" width="500" />
 </p>
