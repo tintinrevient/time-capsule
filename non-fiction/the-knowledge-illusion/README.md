@@ -32,6 +32,8 @@
 
 * "The smartest among us may well be those who are best **able to understand others**."
 
+* "My knowledge has to be full of **pointers** and **placeholders** rather than just **facts**."
+
 <p float="left">
 	<img src="./pix/the-knowledge-illusion.jpg" width="500" />
 </p>
