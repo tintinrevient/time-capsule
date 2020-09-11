@@ -30,6 +30,8 @@
 
 * "The visual environment functions as a sort of **outside memory store**."
 
+* "The smartest among us may well be those who are best **able to understand others**."
+
 <p float="left">
 	<img src="./pix/the-knowledge-illusion.jpg" width="500" />
 </p>
