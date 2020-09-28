@@ -12,6 +12,8 @@
 
 * "The freakish character and **gigantic scale** of these phenomena go too far outside the experience of man to be grasped by anybody observing them for the first time."
 
+* "No man has ever become genuinely **conversant with them**."
+
 <p float="left">
 	<img src="./pix/solaris_4.jpg" width="500" />
 </p>
