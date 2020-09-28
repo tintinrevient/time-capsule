@@ -8,6 +8,10 @@
 
 * "At the same time, there is something inside us which we don't like to face up to, from which we try to protect ourselves, but which nevertheless remains, since we don't leave Earth in a state of **primal innocence**."
 
+* "Although these descriptions are unverifiable, since the ocean **seldom repeats itself**."
+
+* "The freakish character and **gigantic scale** of these phenomena go too far outside the experience of man to be grasped by anybody observing them for the first time."
+
 <p float="left">
 	<img src="./pix/solaris_4.jpg" width="500" />
 </p>
