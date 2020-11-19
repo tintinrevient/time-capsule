@@ -30,6 +30,12 @@
 
 * "The visual environment functions as a sort of **outside memory store**."
 
+* "The smartest among us may well be those who are best **able to understand others**."
+
+* "My knowledge has to be full of **pointers** and **placeholders** rather than just **facts**."
+
+* "So little of what happens to us is undertood through **direct sensory experience**."
+
 <p float="left">
 	<img src="./pix/the-knowledge-illusion.jpg" width="500" />
 </p>
