@@ -111,6 +111,16 @@
 	<img src="./pix/ginger.png" width="700" />
 </p>
 
+### Minium
+<p float="left">
+	<img src="./pix/minium.png" width="700" />
+</p>
+
+### Nude
+<p float="left">
+	<img src="./pix/nude.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
