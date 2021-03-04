@@ -133,6 +133,31 @@
 	<img src="./pix/Mountbatten-pink.png" width="700" />
 </p>
 
+### Puce
+<p float="left">
+	<img src="./pix/puce.png" width="700" />
+</p>
+
+### Fuchsia
+<p float="left">
+	<img src="./pix/fuchsia.png" width="700" />
+</p>
+
+### Shocking pink
+<p float="left">
+	<img src="./pix/shocking-pink.png" width="700" />
+</p>
+
+### Fluorescent pink
+<p float="left">
+	<img src="./pix/fluorescent-pink.png" width="700" />
+</p>
+
+### Amaranth
+<p float="left">
+	<img src="./pix/amaranth.png" width="700" />
+</p>
+
 <p float="left">
 	<img src="./pix/the-secret-lives-of-color.jpg" width="500" />
 </p>
