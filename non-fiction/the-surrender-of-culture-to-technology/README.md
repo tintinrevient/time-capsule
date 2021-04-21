@@ -14,6 +14,14 @@
 
 * "new technologies alter the structure of our interests: the things we **think about**. they alter the character of our symbols: the things we **think with**"
 
+* "is it **lack of information** about how to grow food that keeps millions at starvation levels?"
+
+* "schools were, in short, a means of governing the **ecology of information**"
+
+* "so the priests of technopoly call sin 'social deviance', which is a statistical concept"
+
+* "sin and evil disappear because they cannot be measured and objectified, and therefore cannot be dealt with by experts"
+
 <p float="left">
 	<img src="./pix/the-surrender-of-culture-to-technology.jpg" width="500" />
 </p>
