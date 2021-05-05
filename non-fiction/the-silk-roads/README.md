@@ -8,6 +8,8 @@
 
 * "an incentive that attracted the poor and persuaded them to accept the new faith"
 
+* "slaves in the Muslim world were as ubiquitous and **silent** as they were in Rome"
+
 <p float="left">
 	<img src="./pix/the-silk-roads.jpg" width="500" />
 </p>
